@@ -1,0 +1,22 @@
+# Build output
+/bin/*
+/obj/*
+/build/
+/dist/
+
+# Local recordings and logs
+/recordings/
+*.gitproj.json
+*.log
+
+# Visual Studio / user state
+*.user
+*.suo
+/.vs/
+
+# Temporary files
+*.pdb
+*.tmp
+*.bak
+.tmp*
+Thumbs.db
